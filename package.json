@@ -1,6 +1,6 @@
 {
   "name": "cyto-reporter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -34,6 +34,7 @@
     "cyto-tools": "^1.0.0",
     "cyto-engine": "^1.0.0",
     "cyto-controller": "^1.0.0",
-    "cyto-frontend": "^1.0.0"
+    "cyto-frontend": "^1.0.0",
+    "@yindongfang/keybinding": "^1.0.0"
   }
 }
