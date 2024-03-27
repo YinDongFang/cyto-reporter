@@ -1,0 +1,39 @@
+{
+  "name": "cyto-reporter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YinDongFang/cyto-reporter.git"
+  },
+  "author": "YinDongFang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YinDongFang/cyto-reporter/issues"
+  },
+  "homepage": "https://github.com/YinDongFang/cyto-reporter#readme",
+  "dependencies": {
+    "blob": "^0.1.0",
+    "cross-env": "^7.0.3",
+    "cytoscape": "^3.28.1",
+    "is-array": "^1.0.1",
+    "is-falsy": "^0.0.1",
+    "jquery": "^3.7.1",
+    "koa": "^2.15.2",
+    "lazy-store-loader": "^2.0.3",
+    "nodemon": "^3.1.0",
+    "querystring": "^0.2.1",
+    "uuid": "^9.0.1",
+    "vite": "^5.2.6",
+    "vue": "^3.4.21",
+    "cyto-data": "^1.0.0",
+    "cyto-tools": "^1.0.0",
+    "cyto-engine": "^1.0.0",
+    "cyto-controller": "^1.0.0",
+    "cyto-frontend": "^1.0.0"
+  }
+}
